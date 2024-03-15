@@ -1,0 +1,5 @@
+.div-fundo{
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(97, 255, 88), rgb(3, 36, 9));
+    height: 100vh;
+}
